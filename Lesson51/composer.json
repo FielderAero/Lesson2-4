@@ -1,0 +1,13 @@
+{
+    "name": "bork/laser",
+    "type": "project",
+    "require": {
+        "yandex/geo": "^1.1"
+    },
+    "authors": [
+        {
+            "name": "bork laser",
+            "email": "borklaser@gmail.com"
+        }
+    ]
+}
